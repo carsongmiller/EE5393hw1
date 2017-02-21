@@ -1,0 +1,15 @@
+﻿Build started 2/20/2017 9:16:14 PM.
+     1>Project "C:\Users\Carson\Google Drive\School\EE 5393\EE_5393_HW1\multiplication\multiplication.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\multiplication.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt multiplication.cpp
+         multiplication.cpp
+     1>c:\users\carson\google drive\school\ee 5393\ee_5393_hw1\multiplication\multiplication.cpp(30): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Carson\Google Drive\School\EE 5393\EE_5393_HW1\Debug\multiplication.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Carson\Google Drive\School\EE 5393\EE_5393_HW1\Debug\multiplication.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Carson\Google Drive\School\EE 5393\EE_5393_HW1\Debug\multiplication.lib" /MACHINE:X86 Debug\multiplication.obj
+         Debug\stdafx.obj
+         multiplication.vcxproj -> C:\Users\Carson\Google Drive\School\EE 5393\EE_5393_HW1\Debug\multiplication.exe
+     1>Done Building Project "C:\Users\Carson\Google Drive\School\EE 5393\EE_5393_HW1\multiplication\multiplication.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.18
